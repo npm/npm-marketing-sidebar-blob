@@ -19,5 +19,7 @@
   "devDependencies": {
     "tap": "^5.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "marked": "^0.3.5"
+  }
 }
