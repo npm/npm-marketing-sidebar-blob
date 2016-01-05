@@ -1,0 +1,19 @@
+{
+  "name": "npm-marketing-sidebar-blob",
+  "version": "0.0.0",
+  "description": "The blobs of marketing goodness that go in the sidebar of https://www.npmjs.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm-marketing-sidebar-blob.git"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/npm-marketing-sidebar-blob/issues"
+  },
+  "homepage": "https://github.com/npm/npm-marketing-sidebar-blob#readme"
+}
