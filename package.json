@@ -1,6 +1,6 @@
 {
   "name": "npm-marketing-sidebar-blob",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The blobs of marketing goodness that go in the sidebar of https://www.npmjs.com/",
   "main": "index.js",
   "scripts": {
