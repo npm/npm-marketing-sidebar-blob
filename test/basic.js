@@ -28,3 +28,7 @@ for (i = 0; i < 1000; i++) {
 for (i = 0; i < blobs.length; i++) {
   t.equal(saw[index], true, 'saw index ' + i)
 }
+
+var notANumber = 'x'
+t.notEqual(blobs.indexOf(getblob(notANumber)), -1)
+t.equal(getblob('1'), getblob(1))
