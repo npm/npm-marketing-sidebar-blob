@@ -7,6 +7,11 @@ var blobs = raw.trim().split(/\n\n/).map(function (blob) {
 var len = blobs.length
 
 // return a random blob
-module.exports = function () {
-  return blobs[ Math.floor(Math.random() * len) ]
+module.exports = function (n) {
+  if (isNaN(n)) {
+    n = Math.floor(Math.random() * len)
+  }
+  return blobs[n]
 }
+
+module.exports.blobs = blobs
