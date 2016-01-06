@@ -1,3 +1,8 @@
+### [learn about roles & permissions](http://npm.me/v6 "Sponsorship")
+Using Orgs and a bit confused? Understand sponsorship, roles, and permission.<br />
+[Learn more&hellip;](http://npm.me/v6 "Sponsorship")
+
+
 ### [roles & perms, demystified](http://npm.me/v1 "Sponsorship")
 Using Orgs and a bit confused? Understand sponsorship, roles, and permission.<br />
 [Learn more&hellip;](http://npm.me/v1 "Sponsorship")
@@ -17,6 +22,11 @@ Have questions about how npm3 handles duplication? You’re not the only one.<br
 ### [same dependencies, different dependency trees?](http://npm.me/v2 "npm3 Non-determinism")
 npm3 does not install dependencies in a deterministic way, but this has no implications for your application.<br />
 [Learn more &hellip;](http://npm.me/v2 "npm3 Non-determinism")
+
+### [learn more about npm On-Site](http://npm.me/a2 "npm On-Site")
+Private npm registry for enterprise customers. Free 30-day trial.<br />
+[Learn more &hellip;](http://npm.me/a2 "learn more about npm On-Site")
+
 
 ### [npm On-Site](http://npm.me/c2 "npm On-Site")
 Private npm registry for enterprise customers. Free 30-day trial.<br />
@@ -144,32 +154,58 @@ Manage developer teams with varying permissions and multiple projects. [Learn ho
 ### npm &hearts; you!
 <a href=""></a><img src="https://partners.npmjs.com/mktg/20160105/haggis-type-342x342.jpg" alt="npm &hearts; you" style="min-width: 100%; max-width: 100%;">
 
-###  
+### [Your own on-premises private registry](http://npm.me/y0)
 <a href="http://npm.me/y0" title="host your own on-premises private registry"><img src="https://partners.npmjs.com/mktg/20160105/on-site-342x100-blue.png" alt="host your own on-premises private registry" style="min-width: 100%; max-width: 100%;"></a>
+Private npm for enterprises <br />[Learn more »](http://npm.me/y0)
 
-###  
+### [Your own on-premises private registry](http://npm.me/d0)
 <a href="http://npm.me/d0" title="host your own on-premises private registry"><img src="https://partners.npmjs.com/mktg/20160105/on-site-342x100-dark.png" alt="host your own on-premises private registry" style="min-width: 100%; max-width: 100%;"></a>
+Private npm for enterprises <br />[Learn more »](http://npm.me/d0)
 
-###  
+### [Your own on-premises private registry](http://npm.me/f0)
 <a href="http://npm.me/f0" title="host your own on-premises private registry"><img src="https://partners.npmjs.com/mktg/20160105/on-site-342x100-gray.png" alt="host your own on-premises private registry" style="min-width: 100%; max-width: 100%;"></a>
+Private npm for enterprises <br />[Learn more »](http://npm.me/f0)
 
-###  
+### [Your own on-premises private registry](http://npm.me/h0)
 <a href="http://npm.me/h0" title="host your own on-premises private registry"><img src="https://partners.npmjs.com/mktg/20160105/on-site-342x342-blue.png" alt="host your own on-premises private registry" style="min-width: 100%; max-width: 100%;"></a>
+Private npm for enterprises <br />[Learn more »](http://npm.me/h0)
 
-###  
+### [Your own on-premises private registry](http://npm.me/g1)
 <a href="http://npm.me/g1" title="host your own on-premises private registry"><img src="https://partners.npmjs.com/mktg/20160105/on-site-342x342-dark.png" alt="host your own on-premises private registry" style="min-width: 100%; max-width: 100%;"></a>
+Private npm for enterprises <br />[Learn more »](http://npm.me/g1)
 
-###  
+###  [Your own on-premises private registry](http://npm.me/g2)
 <a href="http://npm.me/g2" title="host your own on-premises private registry"><img src="https://partners.npmjs.com/mktg/20160105/on-site-342x342-gray.png" alt="host your own on-premises private registry" style="min-width: 100%; max-width: 100%;"></a>
+Private npm for enterprises<br />[Learn more »](http://npm.me/g2)
 
-###  
+### [Everything’s better in groups](http://npm.me/f1)
 <a href="http://npm.me/f1" title="Manage developer teams with varying permisisons and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x100-white.png" alt="Manage developer teams with varying permisisons and multiple projects" style="min-width: 100%; max-width: 100%;"></a>
+Manage developer teams with varying permisisons and multiple projects.<br />[Learn more »](http://npm.me/f1)
 
-###  
-<a href="http://npm.me/u0" title="Manage developer teams with varying permisisons and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x342-white.jpg" alt="Manage developer teams with varying permisisons and multiple projects" style="min-width: 100%; max-width: 100%;"></a>
+### [Everything’s better in groups](http://npm.me/u0)
+<a href="http://npm.me/u0" title="Manage developer teams with varying permisisons and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x342-white.png" alt="Manage developer teams with varying permisisons and multiple projects" style="min-width: 100%; max-width: 100%;"></a>
+Manage developer teams with varying permisisons and multiple projects. <br/>[Learn more »](http://npm.me/u0)
 
-###  
-<a href="http://npm.me/v0" title="Use the npm registry to host your own private code and the npm command line to manage it"><img src="https://partners.npmjs.com/mktg/20160105/private-342x100-gray.jpg" alt="use the npm registry to host your own private code and the npm command line to manage it" style="min-width: 100%; max-width: 100%;"></a>
+### [Orgs are here](http://npm.me/f1)
+<a href="http://npm.me/f1" title="Manage developer teams with varying permisisons and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x100-white.png" alt="Manage developer teams with varying permisisons and multiple projects" style="min-width: 100%; max-width: 100%;"></a>
+Manage developer teams with varying permisisons and multiple projects.<br />[Learn more »](http://npm.me/f1)
 
-###  
+### [Orgs are here](http://npm.me/u0)
+<a href="http://npm.me/u0" title="Manage developer teams with varying permisisons and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x342-white.png" alt="Manage developer teams with varying permisisons and multiple projects" style="min-width: 100%; max-width: 100%;"></a>
+Manage developer teams with varying permisisons and multiple projects. <br/>[Learn more »](http://npm.me/u0)
+
+### [npm Private Packages](http://npm.me/v0)
+<a href="http://npm.me/v0" title="Use the npm registry to host your own private code and the npm command line to manage it"><img src="https://partners.npmjs.com/mktg/20160105/private-342x100-gray.png" alt="use the npm registry to host your own private code and the npm command line to manage it" style="min-width: 100%; max-width: 100%;"></a>
+__Private Packages__ let you use the npm registry to host your own code and the npm command line to manage it. [Learn more »](http://npm.me/c0)
+
+### [host your own private code](http://npm.me/v0)
+<a href="http://npm.me/v0" title="Use the npm registry to host your own private code and the npm command line to manage it"><img src="https://partners.npmjs.com/mktg/20160105/private-342x100-gray.png" alt="use the npm registry to host your own private code and the npm command line to manage it" style="min-width: 100%; max-width: 100%;"></a>
+__Private Packages__ let you use the npm registry to host your own code and the npm command line to manage it. [Learn more »](http://npm.me/c0)
+
+### [host your own private code](http://npm.me/c0)
 <a href="http://npm.me/c0" title="Use the npm registry to host your own private code and the npm command line to manage it"><img src="https://partners.npmjs.com/mktg/20160105/private-342x342-gray.png" alt="use the npm registry to host your own private code and the npm command line to manage it" style="min-width: 100%; max-width: 100%;"></a>
+__Private Packages__ let you use the npm registry to host your own code and the npm command line to manage it. [Learn more »](http://npm.me/c0)
+
+### [npm Private Packages](http://npm.me/c0)
+<a href="http://npm.me/c0" title="Use the npm registry to host your own private code and the npm command line to manage it"><img src="https://partners.npmjs.com/mktg/20160105/private-342x342-gray.png" alt="use the npm registry to host your own private code and the npm command line to manage it" style="min-width: 100%; max-width: 100%;"></a>
+__Private Packages__ let you use the npm registry to host your own code and the npm command line to manage it. [Learn more »](http://npm.me/c0)
