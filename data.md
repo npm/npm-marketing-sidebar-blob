@@ -138,13 +138,6 @@ It’s never been easier to manage developer teams with varying permissions and 
 ### [Orgs are here](http://npm.me/d1 "Private Packages and Organizations") 
 Manage developer teams with varying permissions and multiple projects. [Learn how&hellip;](http://npm.me/d1 "Private Packages and Organizations")
 
-
-
-
-
-
-
-
 ### npm &hearts; you!
 <a href=""></a><img src="https://partners.npmjs.com/mktg/20160105/haggis-type-342x100.jpg" alt="npm &hearts; you" style="min-width: 100%; max-width: 100%;">
 
