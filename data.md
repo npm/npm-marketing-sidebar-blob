@@ -102,7 +102,7 @@ And we need help with npm and its docs. A trade is in order. [Socks&nbsp;for&nbs
 We need help with npm and its docs. And you need wombat socks. [Fortunately&nbsp;for&nbsp;you&hellip;](http://npm.me/b4 "Socks for docs")
 
 ### [Orgs are here 🎉](http://npm.me/x1 "Private Packages and Organizations")
-It’s never been easier to manage developer teams with varying permissions and multiple projects. [Learn&nbsp;more&nbsp;about&nbsp;Packages&nbsp;and&nbsp;Organiztions&nbsp;»](http://npm.me/x1 "Private Packages and Organizations")
+It’s never been easier to manage developer teams with varying permissions and multiple projects. [Learn&nbsp;more&nbsp;about&nbsp;Packages&nbsp;and&nbsp;Organizations&nbsp;»](http://npm.me/x1 "Private Packages and Organizations")
 
 ### [Orgs are here 🎉](http://npm.me/i2 "Private Packages and Organizations")
 Manage developer teams with varying permissions and multiple projects. [Learn&nbsp;how&hellip;](http://npm.me/i2 "Private Packages and Organizations")
