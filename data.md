@@ -57,7 +57,7 @@ Learn best practices for Node.js with Visual Studio and Windows, including how a
 With npm private modules, you can use the npm registry to host your own private code and the npm command line to manage it. [Learn&nbsp;more&hellip;](http://npm.me/g4 "Working with private modules")
 
 ### [Orgs are here 🎉](http://npm.me/f4 "Private Packages and Organizations")
-It’s never been easier to manage developer teams with varying permissions and multiple projects. [Learn&nbsplmore&nbsp;&hellip;](http://npm.me/f4 "Private Packages and Organizations")
+It’s never been easier to manage developer teams with varying permissions and multiple projects. [Learn&nbsp;more&nbsp;&hellip;](http://npm.me/f4 "Private Packages and Organizations")
 
 ### [Orgs are here 🎉](http://npm.me/e2 "Private Packages and Organizations")
 Manage developer teams with varying permissions and multiple projects. [Learn&nbsp;how&hellip;](http://npm.me/e2 "Private Packages and Organizations")

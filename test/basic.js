@@ -9,6 +9,7 @@ for (var i = 0; i < blobs.length; i++) {
   t.notEqual(blobs[i].length, 0)
   t.notMatch(blobs[i], /^###/)
   t.notMatch(blobs[i], '&bsp;')
+  t.notMatch(blobs[i], /&nbsp[^;]/)
   t.match(blobs[i], /^<h3[ >]/)
   t.match(blobs[i], /<a /)
 }
