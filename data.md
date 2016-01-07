@@ -36,7 +36,7 @@ Private npm for your enterprise. [Start&nbsp;a&nbsp;free&nbsp;trial&nbsp;»](htt
 Host your own private, on-premises npm registry with npm On-Site. [Learn&nbsp;more](http://npm.me/f2 "npm On-Site")…
 
 ### [Private npm Registry](http://npm.me/e0 "npm On-Site")
-Host your own private, on-premises npm registry with npm On-Site. [Learn&bsp;how&hellip;](http://npm.me/e0 "npm On-Site")
+Host your own private, on-premises npm registry with npm On-Site. [Learn&nbsp;how&hellip;](http://npm.me/e0 "npm On-Site")
 
 ### [Private npm Registry](http://npm.me/u1 "npm On-Site")
 Host your own private, on-premises npm registry with npm On-Site. [Try&nbsp;it&nbsp;now.](http://npm.me/u1 "npm On-Site")
