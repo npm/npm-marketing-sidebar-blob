@@ -13,6 +13,7 @@ for (var i = 0; i < blobs.length; i++) {
   t.notMatch(blobs[i], /[^&]nbsp;/)
   t.notMatch(blobs[i], /[^&]nbsp[^;]/)
   t.notMatch(blobs[i], 'Organiztions')
+  t.notMatch(blobs[i], 'Orgainzations')
   t.match(blobs[i], /^<h3[ >]/)
   t.match(blobs[i], /<a /)
 }
