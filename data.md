@@ -108,7 +108,7 @@ It’s never been easier to manage developer teams with varying permissions and 
 Manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;how&hellip;](http://npm.me/i2 "Private Packages and Organizations")
 
 ### [Orgs are here](http://npm.me/z1 "Private Packages and Organizations")
-It’s never been easier to manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;about&nbsp;Packages&nbsp;and&nbsp;Orgainzations&hellip;](http://npm.me/z1 "Private Packages and Organizations")
+It’s never been easier to manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;about&nbsp;Packages&nbsp;and&nbsp;Organizations&hellip;](http://npm.me/z1 "Private Packages and Organizations")
 
 ### [Orgs are here](http://npm.me/d1 "Private Packages and Organizations") 
 Manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;how&hellip;](http://npm.me/d1 "Private Packages and Organizations")
