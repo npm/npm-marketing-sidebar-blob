@@ -117,12 +117,12 @@ Manage developer teams with varying permissions and multiple projects.&nbsp; [Le
 <a href=""></a><img src="https://partners.npmjs.com/mktg/20160105/haggis-type-342x100.jpg" alt="npm &hearts; you" style="min-width: 100%; max-width: 100%;">
 
 ### [Everything’s better in groups](http://npm.me/f1)
-<a href="http://npm.me/f1" title="Manage developer teams with varying permisisons and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x100-white.png" alt="Manage developer teams with varying permisisons and multiple projects" style="min-width: 100%; max-width: 100%;"></a><br />
-__npm Private Packages for Organizations:__ Manage developer teams with varying permisisons and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/f1)
+<a href="http://npm.me/f1" title="Manage developer teams with varying permissions and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x100-white.png" alt="Manage developer teams with varying permissions and multiple projects" style="min-width: 100%; max-width: 100%;"></a><br />
+__npm Private Packages for Organizations:__ Manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/f1)
 
 ### [Orgs are here](http://npm.me/f5)
-<a href="http://npm.me/f5" title="Manage developer teams with varying permisisons and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x100-white.png" alt="Manage developer teams with varying permisisons and multiple projects" style="min-width: 100%; max-width: 100%;"></a><br />
-__npm Private Packages for Organizations:__ Manage developer teams with varying permisisons and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/f5)
+<a href="http://npm.me/f5" title="Manage developer teams with varying permissions and multiple projects"><img src="https://partners.npmjs.com/mktg/20160105/orgs-342x100-white.png" alt="Manage developer teams with varying permissions and multiple projects" style="min-width: 100%; max-width: 100%;"></a><br />
+__npm Private Packages for Organizations:__ Manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/f5)
 
 ### [npm Private Packages](http://npm.me/u2)
 <a href="http://npm.me/u2" title="Use the npm registry to host your own private code and the npm command line to manage it"><img src="https://partners.npmjs.com/mktg/20160105/private-342x100-gray.png" alt="use the npm registry to host your own private code and the npm command line to manage it" style="min-width: 100%; max-width: 100%;"></a><br />
@@ -210,15 +210,15 @@ It’s never been easier to manage developer teams with varying permissions and 
 
 ###  
 <a href="http://npm.me/d5" title="npm Orgs"><img src="https://partners.npmjs.com/mktg/20160113/orgs-dblue-342.png" alt="npm Orgs" style="min-width: 100%; max-width: 100%; position: relative; top: -10px;"></a>
-__Everything’s better in groups.__ Manage developer teams with varying permisisons and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/d5 "npm Orgs")
+__Everything’s better in groups.__ Manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/d5 "npm Orgs")
 
 ###  
 <a href="http://npm.me/z3" title="npm Orgs"><img src="https://partners.npmjs.com/mktg/20160113/orgs-lblue-342.png" alt="npm Orgs" style="min-width: 100%; max-width: 100%; position: relative; top: -10px;"></a>
-__Everything’s better in groups.__ Manage developer teams with varying permisisons and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/z3 "npm Orgs")
+__Everything’s better in groups.__ Manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/z3 "npm Orgs")
 
 ###  
 <a href="http://npm.me/b6" title="npm Orgs"><img src="https://partners.npmjs.com/mktg/20160113/orgs-taupe-342.png" alt="npm Orgs" style="min-width: 100%; max-width: 100%; position: relative; top: -10px;"></a>
-__Everything’s better in groups.__ Manage developer teams with varying permisisons and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/b6 "npm Orgs")
+__Everything’s better in groups.__ Manage developer teams with varying permissions and multiple projects.&nbsp; [Learn&nbsp;more&nbsp;»](http://npm.me/b6 "npm Orgs")
 
 ###  
 <a href="http://npm.me/v8" title="Use the npm registry to host your own code and the npm command line to manage it."><img src="https://partners.npmjs.com/mktg/20160113/private-packages-dblue-342.png" alt="Use the npm registry to host your own code and the npm command line to manage it." style="min-width: 100%; max-width: 100%; position: relative; top: -10px;"></a>
