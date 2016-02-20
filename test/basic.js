@@ -7,6 +7,8 @@ t.notEqual(blobs.length, 0)
 for (var i = 0; i < blobs.length; i++) {
   t.equal(blobs[i], getblob(i))
   t.notEqual(blobs[i].length, 0)
+  t.notMatch(blobs[i], 'permisison')
+  t.notMatch(blobs[i], 'Permisison')
   t.notMatch(blobs[i], /^###/)
   t.notMatch(blobs[i], '&bsp;')
   t.notMatch(blobs[i], /&nbsp[^;]/)
